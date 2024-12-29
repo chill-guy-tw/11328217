@@ -43,7 +43,7 @@
 ## 安裝需求
 
 ```txt
-gradio==4.19.2
+gradio==5.9.1
 opencv-python==4.9.0.80
 numpy==1.26.4
 Pillow==10.2.0
